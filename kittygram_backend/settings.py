@@ -93,9 +93,9 @@ USE_L10N = True
 USE_TZ = True
 
 
-STATIC_URL = 'static_backend'
+STATIC_URL = 'static_backend/'
 # Укажите директорию, куда бэкенд-приложение должно сложить статику.
-STATIC_ROOT = BASE_DIR / 'static_backend'
+STATIC_ROOT = BASE_DIR / 'static_backend/'
 
 STATICFILES_DIRS = [
     BASE_DIR / 'assets',
