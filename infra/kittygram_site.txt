@@ -1,5 +1,5 @@
 IP: 89.169.173.235;
 name_taski: https://bobus.bounceme.net/;
-name_kittygram: https://bobusbobus.duckdns.org/signup;
+name_kittygram: https://bobusbobus.duckdns.org/;
 login: yc-user;
 password: qqq03041001;
